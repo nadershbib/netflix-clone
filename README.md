@@ -22,7 +22,7 @@
            <h3>react-youtube</h3>
        </li>
         <li>
-           <h3>moie-trailer library</h3>
+           <h3>movie-trailer library</h3>
        </li>
         <li>
            <h3>Axios</h3>
