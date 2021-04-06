@@ -18,5 +18,14 @@
        <li>
            <h3>TMDB API</h3>
        </li>
+        <li>
+           <h3>react-youtube</h3>
+       </li>
+        <li>
+           <h3>moie-trailer library</h3>
+       </li>
+        <li>
+           <h3>Axios</h3>
+       </li>
 </ul>
 
