@@ -1,5 +1,5 @@
 <h1> <a href="https://netflix-clone-2ef3a.web.app/">Netflix clone </a></h1>
-<img src="./netflix clone.png" />
+<img src="./netlflix clone.png" />
 
 <h1>Overview</h1>
 
